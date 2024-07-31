@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**Bianca-lmoreira/Bianca-lmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 
+       ⋆☀︎.Boas vindas ao meu perfil!⋆☀︎.
+          ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚.˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
